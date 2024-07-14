@@ -1,1 +1,1 @@
-Created a blog App that performs CRUD Operation using Node js.
+Created a blog App that performs some basic operations like create post, like, unlike, comment  using Node js.
